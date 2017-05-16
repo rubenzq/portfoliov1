@@ -1,0 +1,35 @@
+body {
+    padding-top: 65px;
+}
+
+ul {
+    padding-right: 15px;
+}
+
+h1, h4{
+    text-align: center;
+    padding: 15px;
+}
+
+.smaller {
+    margin: 40px;
+    padding: 40px;
+}
+
+footer {
+    background-color: lightblue;
+}
+
+p {
+    text-align: center;
+}
+
+.images {
+    width: 25%;
+    margin: 0 auto;
+}
+
+.images img {
+    height: 100px;
+    width: 100px;
+}
